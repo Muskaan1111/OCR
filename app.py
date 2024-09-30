@@ -13,7 +13,7 @@ def searchWord(text, keyword):
 
 # Title and description
 st.markdown(
-    "<h1 style='color: white; text-decoration: underline; text-decoration-color: yellow;'>"
+    "<h1 style='color: brown; text-decoration: underline; text-decoration-color: yellow;'>"
     "Our OCR Web Application App which extracts text from an image and searches for keywords"
     "</h1>", 
     unsafe_allow_html=True
